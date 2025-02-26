@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "webapp/WEB-INF",
+  "type": "java.lang.String",
+  "description": "A description for 'webapp/WEB-INF'"
+}]}
