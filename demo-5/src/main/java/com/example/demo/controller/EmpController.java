@@ -33,7 +33,7 @@ public class EmpController {
  
     @GetMapping("/map")
     public static String print() {
-    	return "Mapping done";
+    	return "Start done";
     }
  
     @GetMapping("/display")
